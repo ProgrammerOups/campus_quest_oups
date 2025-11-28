@@ -1,0 +1,11 @@
+# Ignore compiled classes
+*.class
+
+# Ignore bin directories
+/bin/
+/src/bin/
+/tests/bin/
+
+# Ignore IDE/project files
+*.log
+*.tmp
